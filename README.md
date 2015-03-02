@@ -8,4 +8,4 @@ Added additions include play, pause, and logout buttons.
 Spotify link to tutorial
 https://developer.spotify.com/technologies/spotify-android-sdk/tutorial/
 
-![Alt text](/relative/path/to/screenshots/sb1.png?raw=true)
+![Alt text](/screenshots/sb1.PNG?raw=true)
