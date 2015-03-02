@@ -1,0 +1,11 @@
+D:\Folder2\SpotifyBump\app\build\intermediates\classes\debug
+D:\Folder2\SpotifyBump\app\build\intermediates\pre-dexed\debug\jnihelpers-1.0-d1fa812e9d21f0a748fb4e45651869f321f65021.jar
+D:\Folder2\SpotifyBump\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-ce9ffc09c6a0c4ce7e95a06480a86341f03e9c08.jar
+D:\Folder2\SpotifyBump\app\build\intermediates\pre-dexed\debug\classes-f7cf552a47690da42d4bbdd3906667d8c81ced5b.jar
+D:\Folder2\SpotifyBump\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-f325ddb259f90ba6e132766876fa8c1ed45194eb.jar
+D:\Folder2\SpotifyBump\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-7a2261bb9c0a728b245b7a4d1a122d7eaf94f4b7.jar
+D:\Folder2\SpotifyBump\app\build\intermediates\pre-dexed\debug\gson-2.3.1-1cf1c1135dad816f2271ae6aa83fedeaec8c8e86.jar
+D:\Folder2\SpotifyBump\app\build\intermediates\pre-dexed\debug\jsoup-1.8.1-224d68ede4db223e164f8408d3cad55e05e85285.jar
+D:\Folder2\SpotifyBump\app\build\intermediates\pre-dexed\debug\okhttp-2.2.0-376862c2b0c48f4b2080fd4d17c66c26b38c276a.jar
+D:\Folder2\SpotifyBump\app\build\intermediates\pre-dexed\debug\classes-d1f9bec3a0e2bcb4c9c0d6c9d7655c846a4b02b3.jar
+D:\Folder2\SpotifyBump\app\build\intermediates\pre-dexed\debug\classes-d9587358bd2e6ed017a5b6f0ba13f2a31ffad594.jar

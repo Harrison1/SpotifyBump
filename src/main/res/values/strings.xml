@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SpotifyBump</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="spotify_bump">Spotify Bump</string>
+    <string name="motto">Begin to use the Spotify SDK</string>
+    <string name="bpm_hint">BPM</string>
+
+</resources>
